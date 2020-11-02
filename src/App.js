@@ -2,7 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    //BEM Naming
+    <div className="app">
       
     </div>
   );
