@@ -12,12 +12,12 @@ const RecentItem = ({url, title}) => {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>   
             </iframe>
 
-            <div className="items__details">
-                <img src="https://st.depositphotos.com/1062085/4174/v/450/depositphotos_41745941-stock-illustration-web-and-html-programming-flat.jpg" alt="programming html" />
-                <div className="items_-detailsText">
+            <div className="item__details">
+                <img src="https://static-cdn.jtvnw.net/ttv-boxart/Science%20%26%20Technology.jpg" alt="programming html" />
+                <div className="item__detailsText">
                     <h4>{title}</h4>
                     <p>Shakeeb Sadikeen</p>
-                    <p>Programming</p>
+                    <p>programming</p>
                 </div>
             </div>
         </div>
