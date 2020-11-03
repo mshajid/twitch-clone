@@ -20,7 +20,7 @@
 }
 
 .sidebar__bottom {
-    position: fixed;
+    
     bottom: 0;
     height: 4rem;
     display: flex;
@@ -38,6 +38,7 @@
     align-items: center;
     padding-left: 18px;
     padding-right: 5px;
+    position: sticky;
 }
 
 .sidebar__bottom > div > input {
