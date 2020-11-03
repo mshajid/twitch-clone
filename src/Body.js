@@ -1,5 +1,6 @@
-import React from 'react'
-import Profile from './Profile'
+import React from 'react';
+import Profile from './Profile';
+import "./Body.css";
 
 const Body = () => {
     return (
@@ -14,4 +15,4 @@ const Body = () => {
     )
 }
 
-export default Body
+export default Body;
