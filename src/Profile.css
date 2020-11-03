@@ -73,6 +73,8 @@
 
 .profile__categories {
     margin-top: 40px;
+    
+
 }
 
 .profile__categories> h2 {
@@ -83,3 +85,14 @@
     margin-top: 10px;
 }
 
+.profile__categories> div > img {
+    width: 201px;
+    height: 271px;
+    
+}
+
+.img__container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}

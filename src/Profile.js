@@ -34,26 +34,39 @@ const Profile = () => {
                 <div className="profile__recentItems">
                     <RecentItem
                         url={'https://www.youtube.com/embed/eI4an8aSsgw'}
-                        title={'Coding Hacking Volume'}
+                        title={'Precalculus Course'}
                     />
                       <RecentItem
                         url={'https://www.youtube.com/embed/Iu3RR-b7Nzw'}
                         title={'Photo Presentation'}
                     />
                       <RecentItem
-                        url={'https://www.youtube.com/embed/eI4an8aSsgw'}
-                        title={'Coding Hacking Volume'}
+                        url={'https://www.youtube.com/embed/jrTMMG0zJyI'}
+                        title={'Lofi Samurai Japanese Mix'}
                     />
                       <RecentItem
-                        url={'https://www.youtube.com/embed/eI4an8aSsgw'}
-                        title={'Coding Hacking Volume'}
+                        url={'https://www.youtube.com/embed/UMKWijxv0kE'}
+                        title={'10 Years of Coding in 10 Min'}
                     />
                 </div>
 
                 <div className="profile__categories">
-                    <h2>Shakeeb's recently streamed Categories</h2>
-                    <img src="https://static-cdn.jtvnw.net/ttv-boxart/Science%20%26%20Technology.jpg" alt="programming html" />
-                    <h3>Programming</h3>
+                  
+                        <h2>Shakeeb's recently streamed Categories</h2>
+                        <div className="img__container">
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/Science%20%26%20Technology.jpg" alt="programming html" />
+                            
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2021-285x380.jpg" />
+
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-285x380.jpg" />
+
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-285x380.jpg" />
+
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/Fitness%20&%20Health-285x380.jpg" />
+                           
+                        </div>
+                        
+                    
                 </div>
             </div>
         </div>
