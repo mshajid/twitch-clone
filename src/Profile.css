@@ -56,3 +56,9 @@
     transform: rotate(45deg);
     margin-right: -5px;
 }
+
+.profile__menu > .active {
+    color: #a970ff;
+    border-bottom: 5px solid #a970ff;
+    padding-bottom: 10px;
+}
