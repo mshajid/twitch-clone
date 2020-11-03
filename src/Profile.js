@@ -5,7 +5,7 @@ const Profile = () => {
     return (
         <div className="profile">
             <div className="profile__topLeft">
-                <img src="https://www.upwork.com/profile-portraits/c1kkybR9dROJoAArOgWZ_Hz8u-mjhnH5gAuDbhvyw7E8r6jipteuqvcIXNZVIXUM1D" />
+                <img src="https://www.upwork.com/profile-portraits/c1kkybR9dROJoAArOgWZ_Hz8u-mjhnH5gAuDbhvyw7E8r6jipteuqvcIXNZVIXUM1D" alt="UpWork ID" />
 
                 <div className="profile__topLeftDetails">
                         <h1>Shakeeb Dev</h1>
