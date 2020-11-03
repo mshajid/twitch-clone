@@ -6,3 +6,7 @@
     height: 100vh;
     overflow: auto;
 }
+
+.body--left {
+    width: 96%;
+}
