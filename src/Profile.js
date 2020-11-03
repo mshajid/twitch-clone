@@ -36,6 +36,24 @@ const Profile = () => {
                         url={'https://www.youtube.com/embed/eI4an8aSsgw'}
                         title={'Coding Hacking Volume'}
                     />
+                      <RecentItem
+                        url={'https://www.youtube.com/embed/Iu3RR-b7Nzw'}
+                        title={'Photo Presentation'}
+                    />
+                      <RecentItem
+                        url={'https://www.youtube.com/embed/eI4an8aSsgw'}
+                        title={'Coding Hacking Volume'}
+                    />
+                      <RecentItem
+                        url={'https://www.youtube.com/embed/eI4an8aSsgw'}
+                        title={'Coding Hacking Volume'}
+                    />
+                </div>
+
+                <div className="profile__categories">
+                    <h2>Shakeeb's recently streamed Categories</h2>
+                    <img src="https://static-cdn.jtvnw.net/ttv-boxart/Science%20%26%20Technology.jpg" alt="programming html" />
+                    <h3>Programming</h3>
                 </div>
             </div>
         </div>
